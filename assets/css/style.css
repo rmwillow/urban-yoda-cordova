@@ -1,14 +1,16 @@
+/* set the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0 auto;
 }
+/* start page at top  */
 
-#loader-cont {
+#loader {
     position: absolute;
     width: 100%;
 }
-
+/* body styling */
 body {
     background-color: #d9dcd6;
     margin: auto;
