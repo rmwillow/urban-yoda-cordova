@@ -38,7 +38,7 @@ body {
     color: #858a80;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -47,10 +47,11 @@ body {
 }
 
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
+    text-align: right;
 }
 
 .header a {
@@ -148,7 +149,7 @@ body {
 /* benefits styling end */
 
 /* footer styling start */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -156,7 +157,7 @@ body {
 
 }
 
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
 /* footer styling end */
